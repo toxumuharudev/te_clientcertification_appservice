@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ch+pZ/tZxaGGyG7xtaW3SmIfaF6xg9vvsF5T2tz8ivGZjAbUPvipRanhhdVwGV77soo4oHec52YrNpRlub0dxA==",
+  "success": true,
+  "projectFilePath": "/Users/tomoharukawata/Library/CloudStorage/OneDrive-個人用/Develop/024_ClientCertificationOnAppService/024_ClientCertificationOnAppService.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomoharukawata/.nuget/packages/microsoft.aspnetcore.authentication.certificate/6.0.14/microsoft.aspnetcore.authentication.certificate.6.0.14.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/tomoharukawata/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
