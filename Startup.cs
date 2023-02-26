@@ -27,7 +27,7 @@ public class Startup
         services.AddCertificateForwarding(options => { options.CertificateHeader = "X-ARR-ClientCert"; });
 
         // Add certificate authentication so when authorization is performed the user will be created from the certificate
-        services.AddAuthentication(CertificateAuthenticationDefaults.AuthenticationScheme).AddCertificate();
+        // services.AddAuthentication(CertificateAuthenticationDefaults.AuthenticationScheme).AddCertificate();
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
