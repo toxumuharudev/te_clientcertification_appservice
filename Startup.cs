@@ -31,6 +31,9 @@ public class Startup
         {
             options.AllowedCertificateTypes = CertificateTypes.All;
             options.ValidateCertificateUse = false;
+            options.ValidateValidityPeriod = false;
+            options.RevocationFlag = X509RevocationFlag.EndCertificateOnly;
+            options.RevocationMode = X509RevocationMode.NoCheck;
         }
 
         );
